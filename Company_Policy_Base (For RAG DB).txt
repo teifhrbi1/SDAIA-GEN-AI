@@ -1,0 +1,5 @@
+SDAIA-Corp Vendor Policy (Effective 2026):
+1. Payment Terms: All vendors must adhere to Net 30 payment terms. No exceptions for Net 60 or Net 90.
+2. Liability: Vendor liability caps must not exceed 100% of the total contract value. Unlimited liability is forbidden.
+3. Governing Law: All contracts must be governed by the laws of the Kingdom of Saudi Arabia (KSA).
+4. Data Hosting: All cloud data must reside in servers physically located within Saudi Arabia.
